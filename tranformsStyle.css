@@ -7,6 +7,9 @@ h2 {
     font-size: 1.8em;
     text-align: center;
     margin: 20px auto;
+    font-family: 'Courier New';
+    font-weight: lighter;
+    transition: transform 3s, background-color 0s 0.85s, color  0s 0.85s;
 }
 h2:nth-of-type(2n){
     background-color: goldenrod;
